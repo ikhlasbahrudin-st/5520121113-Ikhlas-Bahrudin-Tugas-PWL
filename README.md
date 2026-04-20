@@ -15,7 +15,7 @@
 <h4 align="center">Tugas Pemrograman Web Lanjut (PWL)</h4>
 
 <p align="center">
-  <b>Universitas / Kampus Kamu</b>
+  <b>Universitas Suryakancana</b>
 </p>
 
 <hr>
