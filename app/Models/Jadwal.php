@@ -1,0 +1,18 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Jadwal extends Model
+{
+    public function dosen()
+{
+    return $this->belongsTo(Dosen::class, 'nidn');
+}
+
+public function matakuliah()
+{
+    return $this->belongsTo(Matakuliah::class, 'kode_matakuliah');
+}
+}
