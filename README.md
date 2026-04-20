@@ -6,7 +6,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<p align="center">
+  <img src="https://i.imgur.com/your-image.png" width="150" alt="Foto Profil">
+</p>
 
+<h2 align="center">IKHLAS BAHRUDIN</h2>
+<h3 align="center">NPM: 5520121113</h3>
+<h4 align="center">Tugas Pemrograman Web Lanjut (PWL)</h4>
+
+<p align="center">
+  <b>Universitas / Kampus Kamu</b>
+</p>
+
+<hr>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
