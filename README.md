@@ -18,6 +18,12 @@
   <b>Universitas Suryakancana</b>
 </p>
 
+
+<hr>
+## ERD
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ikhlasbahrudin-st/5520121113-Ikhlas-Bahrudin-Tugas-PWL/main/ERD.png" width="600" alt="ERD Sistem">
+</p>
 <hr>
 ## About Laravel
 
